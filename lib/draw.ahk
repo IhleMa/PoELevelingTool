@@ -20,7 +20,7 @@ DrawSteps(ByRef stepID) {
     
 
     Gui, Steps:Destroy
-    local width = 250
+    local width = 350
 
     Gui, Steps:-Caption
     Gui, Steps:-dpiscale 
